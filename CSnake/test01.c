@@ -4,26 +4,20 @@
 #include<string.h>
 
 int main(void) {
+	int a = 10;
 
-	double score[3][5] = 
-	{
-		88,77,99,59,77,
-		95,97,91,98,90,
-		65,55,84,57,81
-	};
-	double sum[3] = { 0.0 };
-	for (size_t i = 0; i < 3; i++)
-	{
-		for (size_t j = 0; j < 5; j++)
-		{
-			sum[i] += score[i][j];
-		}
-	}
+	//1、如果是定义变量，*和类型结合，不是变量结合
+	int * p = &a;
+	//
 
-	for (size_t i = 0; i < 3; i++)
-	{
-		printf("average:%.2lf\n", sum[i] / 5);
-	}
+	/*
+	int * p;
+	p = &a;
+	*/
+
+	//2、使用变量时，*和变量结合，操作的是指针所指向的内存
+	*p = 111; // 操作的不是p的内存，操作的是p所指向的内存，即操作a的内存
+
 
 	system("pause");//暂停	#include<stdlib.h>
 	//2.ctrl+f5
