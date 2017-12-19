@@ -4,21 +4,10 @@
 #include<string.h>
 
 int main(void) {
-	int a = 10;
 
-	//1、如果是定义变量，*和类型结合，不是变量结合
-	int * p = &a;
-	//
-
-	/*
-	int * p;
-	p = &a;
-	*/
-
-	//2、使用变量时，*和变量结合，操作的是指针所指向的内存
-	*p = 111; // 操作的不是p的内存，操作的是p所指向的内存，即操作a的内存
-
-
+	//1、在32位编译器下，指针大小都是32位（4字节）
+	//1、在64位编译器下，指针大小都是64位（8字节）
+	printf("%d,%d,%d\n", sizeof(char *), sizeof(int ******), sizeof(double *));
 	system("pause");//暂停	#include<stdlib.h>
 	//2.ctrl+f5
 	return 0;
