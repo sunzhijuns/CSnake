@@ -3,29 +3,25 @@
 #include<stdlib.h>
 #include<string.h>
 
-//形参中数组不是数组，是指针变量
-/*
-下面4中写法完全一样，最后写指针变量的形式
-void func(int a[10])
-void func(int a[10000])
-void func(int a[])
-*/
-void func(int * a) {
-	printf("func sizeof(a) = %d\n", sizeof(a));
-
-	int b = 1;
-	a = &b;
-	*a = 22;
-	printf("b = %d\n", b);
-}
+//Student 标识符，用户自定义的名字
+//定义一个结构体类型，struct Stdent ，合起来才是类型名
+//成员变量不能直接赋值
+struct Student
+{
+	char name[50];
+	int age;
+	int score;
+};//有分号
 
 int main(void) {
 
-	int a[10] = {1,2,3,4,5,6,7,8,9,0};
-
-	printf("main sizeof(a) = %d\n", sizeof(a));
-
-	func(a);
+	//类型 变量名
+	//Student s;//c++可以，c语言不行
+	struct Student s;
+	strcpy(s.name, "dwefwe");
+	s.age = 1;
+	s.score = 13;
+	printf("%s,%d,%d\n",s.name, s.age,s.score);
 
 
 	system("pause");//暂停	#include<stdlib.h>
