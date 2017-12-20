@@ -5,39 +5,24 @@
 
 
 
-typedef struct Student
-{
-	char name[50];
-	int age;
-	int score;
-}Student;//有分号
 
-//从左往右，const修饰最近的字符，这里修饰的是*
-//指针所指向的内存（成员变量）不能改变，指针变量可以改变
-void func(const Student * p)
-//void func (Student const * p) 等价
-{
-	//p->age = 18;//err
-	p = NULL;//ok
-}
-
-
-//从左往右，const修饰最近的字符，这里修饰的是p
-//指针所指向的内存（成员变量）可以改变，指针变量不可以改变
-void func1(Student * const p)
-{
-	p->age = 18;//ok
-	//p = NULL;//err
-}
-
-//从左往右，const修饰最近的字符
-//指针所指向的内存（成员变量）不可以改变，指针变量不可以改变
-void func1(const Student * const p)
-{
-	//p->age = 18;//err
-	//p = NULL;//err
-}
 int main(void) {
+	//普通局部变量，通常放在某个函数，某个语句，某个{}里面
+	//程序执行到定义语句时，才会给a分配空间
+	//离开{}，a自动回收，释放，所谓释放，不是空间消失，这个空间用户不能再用
+	//局部变量，不初始化，值为垃圾数据，随机数，不同编译器值不一样
+	{
+		int a = 10;
+		for (size_t i = 0; i < 2; i++)
+		{
+
+		}
+		int b;
+		printf("b = %d\n", b);
+	}
+	
+
+
 
 	system("pause");//暂停	#include<stdlib.h>
 	//2.ctrl+f5
