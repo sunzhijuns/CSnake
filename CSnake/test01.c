@@ -3,25 +3,41 @@
 #include<stdlib.h>
 #include<string.h>
 
-struct Info {
-	int age;
-	char sex;
-	char name[50];
-};
-struct Student
+
+
+typedef struct Student
 {
-	//嵌套结构体变量，不能是本结构体变量
-	//struct Student temp;//err struct Student类型不确定，内存大小无法确定
-	//可以起嵌套任何类型的结构体指针变量
-	struct Student * next;// 因为指针大小确定，32位系统4字节大小，64位系统8字节大小
-	struct Info info;
+	char name[50];
+	int age;
 	int score;
-};//有分号
+}Student;//有分号
 
+//从左往右，const修饰最近的字符，这里修饰的是*
+//指针所指向的内存（成员变量）不能改变，指针变量可以改变
+void func(const Student * p)
+//void func (Student const * p) 等价
+{
+	//p->age = 18;//err
+	p = NULL;//ok
+}
+
+
+//从左往右，const修饰最近的字符，这里修饰的是p
+//指针所指向的内存（成员变量）可以改变，指针变量不可以改变
+void func1(Student * const p)
+{
+	p->age = 18;//ok
+	//p = NULL;//err
+}
+
+//从左往右，const修饰最近的字符
+//指针所指向的内存（成员变量）不可以改变，指针变量不可以改变
+void func1(const Student * const p)
+{
+	//p->age = 18;//err
+	//p = NULL;//err
+}
 int main(void) {
-
-	struct Student s = { 0 };
-	printf("%p,%d,%c,%s,%d\n",s.next, s.info.age, s.info.sex, s.info.name, s.score);
 
 	system("pause");//暂停	#include<stdlib.h>
 	//2.ctrl+f5
