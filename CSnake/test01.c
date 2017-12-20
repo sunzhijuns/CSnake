@@ -3,39 +3,25 @@
 #include<stdlib.h>
 #include<string.h>
 
-//Student 标识符，用户自定义的名字
-//定义一个结构体类型，struct Stdent ，合起来才是类型名
-//成员变量不能直接赋值
+struct Info {
+	int age;
+	char sex;
+	char name[50];
+};
 struct Student
 {
-	char name[50];
-	int age;
+	//嵌套结构体变量，不能是本结构体变量
+	//struct Student temp;//err struct Student类型不确定，内存大小无法确定
+	//可以起嵌套任何类型的结构体指针变量
+	struct Student * next;// 因为指针大小确定，32位系统4字节大小，64位系统8字节大小
+	struct Info info;
 	int score;
 };//有分号
 
 int main(void) {
 
-	//类型 变量名
-	//Student s;//c++可以，c语言不行
-
-	struct Student a[] =
-	{
-		{0},
-		{0},
-		{"ss",22,33},
-	};
-	int n = sizeof(a) / sizeof(a[0]);
-	printf("n = %d\n", n);
-
-	for (size_t i = 0; i < 3; i++)
-	{
-		//printf("%s,%d,%d\n", (a + i)->name, (a + i)->age, (a + i)->score);
-		//printf("%s,%d,%d\n", (&a[i])->name, (&a[i])->age, (&a[i])->score);
-		//printf("%s,%d,%d\n", (*(a+i)).name, (*(a + i)).age, (*(a + i)).score);
-		printf("%s,%d,%d\n", a[i].name, a[i].age, a[i].score);
-	}
-
-
+	struct Student s = { 0 };
+	printf("%p,%d,%c,%s,%d\n",s.next, s.info.age, s.info.sex, s.info.name, s.score);
 
 	system("pause");//暂停	#include<stdlib.h>
 	//2.ctrl+f5
