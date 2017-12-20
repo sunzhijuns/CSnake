@@ -18,13 +18,22 @@ int main(void) {
 	//类型 变量名
 	//Student s;//c++可以，c语言不行
 
-	//定义变量同时赋值，叫做初始化
-	struct Student s = {"szh",18,100};
-	printf("%s,%d,%d\n", s.name, s.age, s.score);
+	struct Student a[] =
+	{
+		{0},
+		{0},
+		{"ss",22,33},
+	};
+	int n = sizeof(a) / sizeof(a[0]);
+	printf("n = %d\n", n);
 
-	struct Student s1 = { 0 };
-	printf("%s,%d,%d\n", s1.name, s1.age, s1.score);
-
+	for (size_t i = 0; i < 3; i++)
+	{
+		//printf("%s,%d,%d\n", (a + i)->name, (a + i)->age, (a + i)->score);
+		//printf("%s,%d,%d\n", (&a[i])->name, (&a[i])->age, (&a[i])->score);
+		//printf("%s,%d,%d\n", (*(a+i)).name, (*(a + i)).age, (*(a + i)).score);
+		printf("%s,%d,%d\n", a[i].name, a[i].age, a[i].score);
+	}
 
 
 
