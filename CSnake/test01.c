@@ -17,11 +17,15 @@ int main(void) {
 
 	//类型 变量名
 	//Student s;//c++可以，c语言不行
-	struct Student s;
-	strcpy(s.name, "dwefwe");
-	s.age = 1;
-	s.score = 13;
-	printf("%s,%d,%d\n",s.name, s.age,s.score);
+
+	//定义变量同时赋值，叫做初始化
+	struct Student s = {"szh",18,100};
+	printf("%s,%d,%d\n", s.name, s.age, s.score);
+
+	struct Student s1 = { 0 };
+	printf("%s,%d,%d\n", s1.name, s1.age, s1.score);
+
+
 
 
 	system("pause");//暂停	#include<stdlib.h>
