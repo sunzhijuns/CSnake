@@ -7,7 +7,7 @@
 #include<conio.h>//_getch(),_kbhit
 #include<Windows.h>//Sleep()
 
-int main(void) {
+int main11(void) {
 
 	//1、设置一个种子
 	//srand(100);
