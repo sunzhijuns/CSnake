@@ -54,11 +54,27 @@ int main_memset(void) {
 	return 0;
 }
 
-int main(void)
+int main_wmemory(void)
 {
 	wchar_t buffer[] = L"This is a test of the wmemset function";
 
 	wprintf(L"Before: %s\n", buffer);
 	wmemset(buffer, '*', 3);
 	wprintf(L"After:  %s\n", buffer);
+}
+
+int main(void) {
+	int count = 2;
+
+	printf("sizeof(char) :%d\n", sizeof(char));
+	printf("sizeof(int) :%d\n", sizeof(int));
+	printf("sizeof( int) :%d\n", sizeof(unsigned int));
+
+	unsigned int * pixels = (unsigned int *)malloc(sizeof(unsigned int *) * count);
+	memset(pixels, 0, sizeof(unsigned int) / sizeof(char) * count);
+	for (size_t i = 0; i < count; i++)
+	{
+		printf("%d :--%d--\n", i+1,pixels[i]);
+	}
+	
 }
