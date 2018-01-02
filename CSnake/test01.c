@@ -7,7 +7,7 @@
 #include<conio.h>//_getch(),_kbhit
 #include<Windows.h>//Sleep()
 
-int main(void) {
+int main_srand(void) {
 
 	//1、设置一个种子
 	//srand(100);
@@ -35,4 +35,30 @@ int main(void) {
 	}
 
 	return 0;
+}
+
+
+
+#include<memory.h> //memset
+#include<wchar.h> //wmemset
+
+
+int main_memset(void) {
+	char buffer[] = "This is a test of the memset function";
+
+	printf("sizeof(char) :%d\n", sizeof(char));
+	printf("sizeof(int) :%d\n", sizeof(int));
+	printf("Before: %s\n", buffer);
+	memset(buffer, '*', 3);
+	printf("After:  %s\n", buffer);
+	return 0;
+}
+
+int main(void)
+{
+	wchar_t buffer[] = L"This is a test of the wmemset function";
+
+	wprintf(L"Before: %s\n", buffer);
+	wmemset(buffer, '*', 3);
+	wprintf(L"After:  %s\n", buffer);
 }
