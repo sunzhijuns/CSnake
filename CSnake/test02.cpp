@@ -42,7 +42,7 @@ stringmap merge(stringmap a, stringmap b) {
 }
 
 //int test_unordered_map2(void)
-int main(void)
+int main111(void)
 {
 	//////////// at/size
 	//std::unordered_map<std::string, int> mymap = { { "Mars", 3000 },{ "Saturn", 60000 },{ "Jupiter", 70000 } };

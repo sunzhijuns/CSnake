@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\matrix">
+      <UniqueIdentifier>{3dc7023e-decf-479f-ab18-a949f47de5e2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test01.c">
@@ -21,5 +24,16 @@
     <ClCompile Include="test02.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="matrix\Main.cpp">
+      <Filter>源文件\matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="matrix\Matrix.cpp">
+      <Filter>源文件\matrix</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="matrix\Matrix.h">
+      <Filter>源文件\matrix</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
