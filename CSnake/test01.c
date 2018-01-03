@@ -63,12 +63,12 @@ int main_wmemory(void)
 	wprintf(L"After:  %s\n", buffer);
 }
 
-int main(void) {
+int main_unsinged_int(void) {
 	int count = 2;
 
 	printf("sizeof(char) :%d\n", sizeof(char));
 	printf("sizeof(int) :%d\n", sizeof(int));
-	printf("sizeof( int) :%d\n", sizeof(unsigned int));
+	printf("sizeof(unsigned int) :%d\n", sizeof(unsigned int));
 
 	unsigned int * pixels = (unsigned int *)malloc(sizeof(unsigned int *) * count);
 	memset(pixels, 0, sizeof(unsigned int) / sizeof(char) * count);
@@ -77,4 +77,22 @@ int main(void) {
 		printf("%d :--%d--\n", i+1,pixels[i]);
 	}
 	
+}
+
+int main(void) {
+	unsigned int MODEL = 0xF;
+	unsigned int color = 0x1234;
+	unsigned int av = 0;
+	printf("MODEL = %p\n", MODEL);
+
+	printf("sizeof(unsigned int) :%d\n", sizeof(unsigned int));
+
+	printf("Before color = %p\n", color);
+
+	av = color & MODEL;
+	color >>= 4;
+	printf("av = %p\n", av);
+	printf("After color = %p\n", color);
+	
+	return 0;
 }
