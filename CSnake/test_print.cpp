@@ -36,10 +36,10 @@ struct Vertex {
 
 
 //#define offsetof(TYPE, MEMBER) ((size_t) & ((TYPE *)0)->MEMBER ) 
-int main(void) {
-
+int main_offsetof(void) {
 	Vertex * p = 0;
 	printf(" pos----%p----\n", &(p->pos));
+	printf("sizeof() = %d\n",sizeof(float) * 2);
 	printf("rgba----%p----\n", offsetof(Vertex,rgba));
 
 	printf("-----\n");
