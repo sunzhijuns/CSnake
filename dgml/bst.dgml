@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph Layout="Sugiyama" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="65" Bounds="-198.205780436509,320.073858134275,50,25.24" UseManualLocation="True" />
+    <Node Id="651" Bounds="-201.910184828149,398.461081690424,50,25.24" Label="65" UseManualLocation="True" />
+    <Node Id="67" Bounds="-113.436946868896,261.988671618652,50,25.24" UseManualLocation="True" />
+    <Node Id="671" Bounds="-118.35382668362,399.341101832025,50,25.24" Label="67" UseManualLocation="True" />
+    <Node Id="69" Bounds="-39.027670490172,322.676380405746,50,25.24" UseManualLocation="True" />
+    <Node Id="691" Bounds="-37.9495442504193,398.274188490631,50,25.24" Label="69" UseManualLocation="True" />
+    <Node Id="72" Bounds="46.7140255776541,185.115844458769,50,25.24" UseManualLocation="True" />
+    <Node Id="721" Bounds="49.2726433705946,397.291657060947,50,25.24" Label="72" UseManualLocation="True" />
+    <Node Id="82" Bounds="129.45098734041,318.408750632312,50,25.24" UseManualLocation="True" />
+    <Node Id="821" Bounds="130.713240154745,397.291657060947,50,25.24" Label="82" UseManualLocation="True" />
+    <Node Id="83" Bounds="213.678838740981,265.313591246719,50,25.2400000000001" UseManualLocation="True" />
+    <Node Id="831" Bounds="213.220749107813,398.002928689853,50,25.24" Label="83" UseManualLocation="True" />
+    <Node Id="88" Bounds="297.57722007518,317.961188558627,50,25.24" UseManualLocation="True" />
+    <Node Id="881" Bounds="302.129702721034,396.580385432041,50,25.24" Label="88" UseManualLocation="True" />
+    <Node Id="A" Bounds="-144.48000117725,122.857481156741,50,25.24" UseManualLocation="True" />
+    <Node Id="C" Bounds="-85.2434743174031,64.0577143563211,50,25.24" UseManualLocation="True" />
+    <Node Id="E" Bounds="-35.4092584163918,121.949943983889,50,25.24" UseManualLocation="True" />
+    <Node Id="H" Bounds="27.8220906738456,3.16385572377839,50,25.24" UseManualLocation="True" />
+    <Node Id="R" Bounds="72.4221131822348,113.878724177249,50,25.24" UseManualLocation="True" />
+    <Node Id="S" Bounds="137.088342070123,57.4769561934793,50,25.24" UseManualLocation="True" />
+    <Node Id="X" Bounds="199.884554783242,121.02296549512,50,25.24" UseManualLocation="True" />
+    <Node Id="中序" Bounds="-304.333460359431,401.559286834382,50,25.24" UseManualLocation="True" />
+  </Nodes>
+  <Links>
+    <Link Source="65" Target="651" Bounds="-175.888947330268,345.313862915039,2.08677389945035,44.1572400765903" />
+    <Link Source="67" Target="65" Bounds="-147.364025839947,287.228673095703,40.5095999028014,27.7579330416993" />
+    <Link Source="67" Target="671" Bounds="-92.5800915594114,287.228673095703,3.69137956780801,103.118208565116" />
+    <Link Source="67" Target="69" Bounds="-72.9635485560869,287.228673095703,36.488024452029,29.7593882918014" />
+    <Link Source="69" Target="691" Bounds="-13.8476928452514,347.91638671875,0.589832072928191,41.358723938363" />
+    <Link Source="72" Target="67" Bounds="-56.0955675595665,209.365187393109,103.581914200876,49.7195499806587" />
+    <Link Source="72" Target="721" Bounds="71.8662095137798,210.355847473145,2.14572780513214,177.93645844964" />
+    <Link Source="72" Target="83" Bounds="95.9367406800093,209.370676800199,110.406711248453,53.0313481480136" />
+    <Link Source="82" Target="821" Bounds="154.652928943287,343.648747558594,0.714376507101889,44.6440713205016" />
+    <Link Source="83" Target="82" Bounds="182.084340580551,290.55359375,36.5746737707553,23.0557724276352" />
+    <Link Source="83" Target="831" Bounds="238.295393947261,290.55359375,0.339871690858558,98.4493846852811" />
+    <Link Source="83" Target="88" Bounds="258.789868443313,290.55359375,36.0529649021668,22.6238185758543" />
+    <Link Source="88" Target="881" Bounds="323.307977996061,343.201207275391,2.5706744257842,44.3942373191498" />
+    <Link Source="C" Target="A" Bounds="-100.378795457495,89.2977143563211,27.42158076917,27.2193972199106" />
+    <Link Source="C" Target="E" Bounds="-49.3800508715167,89.2977143563211,22.2358398458361,25.8312952866357" />
+    <Link Source="H" Target="C" Bounds="-29.2519266574886,28.2074390688827,59.0063467702277,31.7791198312868" />
+    <Link Source="H" Target="S" Bounds="76.7683517493415,27.6868510864564,53.3144649018791,26.5010820056626" />
+    <Link Source="S" Target="R" Bounds="118.673900990624,82.7169561934793,28.9452526526405,25.2459970593953" />
+    <Link Source="S" Target="X" Bounds="174.559435269348,82.7169561934793,31.5279445527088,31.9043931353126" />
+  </Links>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="Label" Label="标签" Description="可批注对象的可显示标签" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="UseManualLocation" DataType="System.Boolean" />
+    <Property Id="ZoomLevel" DataType="System.String" />
+  </Properties>
+</DirectedGraph>
