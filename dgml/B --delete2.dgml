@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="1-init" Bounds="-290.917851392428,-35.4823252569965,576.086666666667,195.7204" Group="Expanded" UseManualLocation="True" />
+    <Node Id="1-init1" Bounds="459.148008451598,-166.924291352465,676.925936075847,195.720434146118" Group="Expanded" Label="1-init" UseManualLocation="True" />
+    <Node Id="2e3c108f-dc1e-4e45-9856-20b617b633f1" Bounds="462.866794637044,544.78325164631,630.226971638997,198.120345166016" Group="Expanded" Label="新建组" UseManualLocation="True" />
+    <Node Id="6566" Bounds="479.148008451598,-16.4439934459713,62.3466666666666,25.24" Label="65    66" />
+    <Node Id="65661" Bounds="889.407523671621,233.050453790954,62.3466666666668,25.24" Label="65    66" />
+    <Node Id="65666769" Category="Category1" Bounds="491.826465657552,469.409338446199,118.893333333333,25.24" Label="65    66    67    69" />
+    <Node Id="656667691" Bounds="482.866794637044,696.487974530184,118.893333333333,25.24" Label="65    66    67    69" />
+    <Node Id="6770" Bounds="677.522810087341,-71.6841019359615,62.3466666666668,25.24" Label="67    70" />
+    <Node Id="67701" Bounds="976.407523671621,177.810349115661,62.3466666666668,25.24" Label="67    70" />
+    <Node Id="6869" Category="Category1" Bounds="572.147681506611,-16.4439972606686,79.5,25.24" Label="D(68)    69" />
+    <Node Id="69" Category="Category1" Bounds="982.580857004955,233.050469049743,50,25.24" />
+    <Node Id="70" Bounds="647.273315429688,414.169470282137,50,25.24" />
+    <Node Id="7074" Category="Category2" Bounds="627.540106608073,641.247874530184,62.3466666666668,25.24" Label="70    74" UseManualLocation="True" />
+    <Node Id="7173" Bounds="681.647810087341,-16.4439810482052,62.3466666666668,25.24" Label="71    73" />
+    <Node Id="71731" Bounds="1063.4941935935,233.052582392028,62.3466666666668,25.24" Label="71    73" />
+    <Node Id="71732" Bounds="641.100165201823,469.409735174715,62.3466666666664,25.24" Label="71    73" />
+    <Node Id="71733" Bounds="632.140143229167,696.487974530184,62.3466666666668,25.24" Label="71    73" />
+    <Node Id="74" Bounds="869.774268420674,-126.924191352465,50,25.24" />
+    <Node Id="741" Bounds="982.580857004955,122.570236810974,50,25.24" Label="74" />
+    <Node Id="742" Category="Category2" Bounds="833.273193359375,358.929205389559,50,25.24" Label="74" />
+    <Node Id="7576" Bounds="774.647810087341,-16.4439810482052,62.3466666666668,25.24" Label="75    76" />
+    <Node Id="75761" Bounds="734.099737955729,469.409429998934,62.3466666666668,25.24" Label="75    76" />
+    <Node Id="75762" Bounds="725.140126039828,695.821236909937,62.3466666666668,25.24" Label="75    76" />
+    <Node Id="77" Bounds="824.313415527344,584.78335164631,50,25.24" />
+    <Node Id="778285" Bounds="853.589207385518,-71.6841000286129,90.6199999999999,25.24" Label="77    82    85" />
+    <Node Id="7782851" Bounds="812.963132324219,414.169317694246,90.6199999999999,25.24" Label="77    82    85" />
+    <Node Id="7880" Bounds="867.647749052184,-16.4439572063473,62.3466666666668,25.24" Label="78    80" />
+    <Node Id="78801" Bounds="827.099860026042,469.409521551668,62.3466666666668,25.24" Label="78    80" />
+    <Node Id="78802" Bounds="818.140143229167,697.663496812326,62.3466666666668,25.24" Label="78    80" />
+    <Node Id="8285" Bounds="898.940131022135,640.02345164631,62.3466666666668,25.24" Label="82    85" UseManualLocation="True" />
+    <Node Id="8384" Bounds="960.647749052184,-16.4440201488522,62.3466666666668,25.24" Label="83    84" />
+    <Node Id="83841" Bounds="920.099982096354,469.409521551668,62.3466666666668,25.24" Label="83    84" />
+    <Node Id="83842" Bounds="911.140143229167,697.66343577717,62.3466666666668,25.24" Label="83    84" />
+    <Node Id="8890" Bounds="1053.72727786078,-16.4440430370358,62.3466666666668,25.24" Label="88    90" />
+    <Node Id="88901" Bounds="1013.18652994792,469.409521551668,62.3466666666668,25.24" Label="88    90" />
+    <Node Id="88990" Bounds="1003.71043891907,695.821222737637,69.3833333333333,25.24" Label="88    990" />
+    <Node Id="AB" Bounds="-270.917851392428,114.997783821983,50.1733333333333,25.24" Label="A    B" />
+    <Node Id="CF" Bounds="-130.217859021823,59.7577783288189,92.7733333333333,25.24" Label="C(67)    F(70)" />
+    <Node Id="DE" Bounds="-189.831177096367,114.997783821983,50,25.24" Label="D    E" />
+    <Node Id="GI" Bounds="-108.831207613945,114.997783821983,50,25.24" Label="G    I" />
+    <Node Id="J(74)" Bounds="53.250724453926,4.51777474300346,50,25.24" />
+    <Node Id="KL" Bounds="-27.8312076139451,114.997783821983,50,25.24" Label="K    L" />
+    <Node Id="MRU" Bounds="39.7924044720331,59.7577783288189,76.9166666666667,25.24" Label="M    R    U" />
+    <Node Id="NP" Bounds="52.5188152742385,114.997783821983,51.3,25.24" Label="N    P" />
+    <Node Id="ST" Bounds="134.168815274239,114.997783821983,50,25.24" Label="S    T" />
+    <Node Id="XZ" Bounds="215.168815274239,114.997768563194,50,25.24" Label="X    Z" />
+    <Node Id="合并" Bounds="869.407523671621,82.5701368109738,276.433336588542,195.722545581055" Group="Expanded" Label="删除68" UseManualLocation="True" />
+    <Node Id="合并1" Bounds="471.826465657552,318.929105389559,623.706730957032,195.720729785156" Group="Expanded" Label="合并" UseManualLocation="True" />
+  </Nodes>
+  <Links>
+    <Link Source="1-init" Target="AB" Category="Contains" />
+    <Link Source="1-init" Target="CF" Category="Contains" />
+    <Link Source="1-init" Target="DE" Category="Contains" />
+    <Link Source="1-init" Target="GI" Category="Contains" />
+    <Link Source="1-init" Target="J(74)" Category="Contains" />
+    <Link Source="1-init" Target="KL" Category="Contains" />
+    <Link Source="1-init" Target="MRU" Category="Contains" />
+    <Link Source="1-init" Target="NP" Category="Contains" />
+    <Link Source="1-init" Target="ST" Category="Contains" />
+    <Link Source="1-init" Target="XZ" Category="Contains" />
+    <Link Source="1-init1" Target="6566" Category="Contains" />
+    <Link Source="1-init1" Target="6770" Category="Contains" />
+    <Link Source="1-init1" Target="6869" Category="Contains" />
+    <Link Source="1-init1" Target="7173" Category="Contains" />
+    <Link Source="1-init1" Target="74" Category="Contains" />
+    <Link Source="1-init1" Target="7576" Category="Contains" />
+    <Link Source="1-init1" Target="778285" Category="Contains" />
+    <Link Source="1-init1" Target="7880" Category="Contains" />
+    <Link Source="1-init1" Target="8384" Category="Contains" />
+    <Link Source="1-init1" Target="8890" Category="Contains" />
+    <Link Source="1-init1" Target="合并" Bounds="879.984967934348,28.7961427936528,39.4685472223273,46.8885934867226" />
+    <Link Source="1-init1" Target="合并1" Bounds="786.743791010706,28.7961427936528,8.06118576218137,281.136660091899" />
+    <Link Source="2e3c108f-dc1e-4e45-9856-20b617b633f1" Target="656667691" Category="Contains" />
+    <Link Source="2e3c108f-dc1e-4e45-9856-20b617b633f1" Target="7074" Category="Contains" />
+    <Link Source="2e3c108f-dc1e-4e45-9856-20b617b633f1" Target="71733" Category="Contains" />
+    <Link Source="2e3c108f-dc1e-4e45-9856-20b617b633f1" Target="75762" Category="Contains" />
+    <Link Source="2e3c108f-dc1e-4e45-9856-20b617b633f1" Target="77" Category="Contains" />
+    <Link Source="2e3c108f-dc1e-4e45-9856-20b617b633f1" Target="78802" Category="Contains" />
+    <Link Source="2e3c108f-dc1e-4e45-9856-20b617b633f1" Target="8285" Category="Contains" />
+    <Link Source="2e3c108f-dc1e-4e45-9856-20b617b633f1" Target="83842" Category="Contains" />
+    <Link Source="2e3c108f-dc1e-4e45-9856-20b617b633f1" Target="88990" Category="Contains" />
+    <Link Source="6770" Target="6566" Bounds="550.168730186843,-50.3819544218949,127.357993082827,35.4645315446598" />
+    <Link Source="6770" Target="6869" Bounds="641.832637766466,-46.4425847976673,44.7531126357043,25.5393172335348" />
+    <Link Source="6770" Target="7173" Bounds="709.642449340205,-46.4425847976673,1.57004018264035,21.0251059062183" />
+    <Link Source="67701" Target="65661" Bounds="948.052266039816,203.04404123562,39.6506001281582,25.1759123256966" />
+    <Link Source="67701" Target="69" Bounds="1007.57863341501,203.04404123562,0,21.000119934082" />
+    <Link Source="67701" Target="71731" Bounds="1027.47342891374,203.04404123562,39.6971257601508,25.1813459014982" />
+    <Link Source="70" Target="65666769" Bounds="587.308532714844,438.391143798828,60.6483154296875,27.67626953125" />
+    <Link Source="70" Target="71732" Bounds="672.513488769531,439.805023193359,0,21.0000610351563" />
+    <Link Source="7074" Target="656667691" Bounds="577.03672516436,666.487874530184,55.0842985720121,26.1414323023114" />
+    <Link Source="7074" Target="71733" Bounds="659.76435154653,666.487874530184,1.7513370102555,21.0311437818975" />
+    <Link Source="7074" Target="75762" Bounds="681.283293055283,666.487874530184,44.6049412678894,24.9409845939435" />
+    <Link Source="74" Target="6770" Bounds="748.501235070654,-106.881047078243,121.276916014771,36.0028820342775" />
+    <Link Source="74" Target="778285" Bounds="895.720537322484,-101.682674214171,1.57002726244502,21.0250779063783" />
+    <Link Source="741" Target="67701" Bounds="1007.57863341501,147.803928930932,0,21.0001123046875" />
+    <Link Source="742" Target="70" Bounds="706.155029296875,379.369567871094,127.425537109375,37.828369140625" />
+    <Link Source="742" Target="7782851" Bounds="858.591003417969,384.564849853516,0,21.0000610351563" />
+    <Link Source="77" Target="7074" Bounds="698.516074342216,604.809533028545,125.797341185127,37.2669675947838" />
+    <Link Source="77" Target="8285" Bounds="867.772776614838,610.023381347656,36.451669349364,24.9206928131788" />
+    <Link Source="778285" Target="7576" Bounds="834.829040928998,-46.4425847976673,42.8097608176391,25.4068052076783" />
+    <Link Source="778285" Target="7880" Bounds="898.855565650918,-46.4425847976673,0.0297232818135171,21.0001461151162" />
+    <Link Source="778285" Target="8384" Bounds="920.131817921142,-46.4425847976673,42.7282650291405,25.4010630455838" />
+    <Link Source="778285" Target="8890" Bounds="941.380768154205,-46.4472710380999,103.722896046273,30.8043851790464" />
+    <Link Source="7782851" Target="75761" Bounds="794.548828125,439.805023193359,42.7867431640625,25.4039306640625" />
+    <Link Source="7782851" Target="78801" Bounds="858.591003417969,439.805023193359,0,21.0000610351563" />
+    <Link Source="7782851" Target="83841" Bounds="879.846435546875,439.805023193359,42.7868041992188,25.4039306640625" />
+    <Link Source="7782851" Target="88901" Bounds="901.086120605469,439.800354003906,103.764953613281,30.8043212890625" />
+    <Link Source="8285" Target="78802" Bounds="874.331013884243,665.263463134766,38.091696707756,27.1733595345454" />
+    <Link Source="8285" Target="83842" Bounds="932.784598922459,665.263463134766,4.99410123615792,23.595051473321" />
+    <Link Source="8285" Target="88990" Bounds="954.605533152946,665.263463134766,51.3041088348363,26.4354089011185" />
+    <Link Source="CF" Target="AB" Bounds="-212.226135253906,84.9979400634766,91.3848037719727,31.1611862182617" />
+    <Link Source="CF" Target="DE" Bounds="-138.890625,84.9979400634766,36.5543670654297,24.9292449951172" />
+    <Link Source="CF" Target="GI" Bounds="-83.8311920166016,84.9979400634766,0,21.0000610351563" />
+    <Link Source="J(74)" Target="CF" Bounds="-38.3026657104492,25.6624526977539,91.4714736938477,31.1907386779785" />
+    <Link Source="J(74)" Target="MRU" Bounds="78.1688079833984,29.7577743530273,0,21.0000610351563" />
+    <Link Source="MRU" Target="KL" Bounds="23.1093788146973,84.9979400634766,36.5543594360352,24.9292449951172" />
+    <Link Source="MRU" Target="NP" Bounds="78.1688079833984,84.9979400634766,0,21.0000610351563" />
+    <Link Source="MRU" Target="ST" Bounds="96.6738739013672,84.9979400634766,36.5543670654297,24.9292449951172" />
+    <Link Source="MRU" Target="XZ" Bounds="114.650856018066,84.81787109375,91.9995651245117,31.3708038330078" />
+    <Link Source="合并" Target="65661" Category="Contains" />
+    <Link Source="合并" Target="67701" Category="Contains" />
+    <Link Source="合并" Target="69" Category="Contains" />
+    <Link Source="合并" Target="71731" Category="Contains" />
+    <Link Source="合并" Target="741" Category="Contains" />
+    <Link Source="合并" Target="合并1" Bounds="882.590580864486,278.292682392028,32.3120846091077,34.1032103976972" />
+    <Link Source="合并1" Target="65666769" Category="Contains" />
+    <Link Source="合并1" Target="70" Category="Contains" />
+    <Link Source="合并1" Target="71732" Category="Contains" />
+    <Link Source="合并1" Target="742" Category="Contains" />
+    <Link Source="合并1" Target="75761" Category="Contains" />
+    <Link Source="合并1" Target="7782851" Category="Contains" />
+    <Link Source="合并1" Target="78801" Category="Contains" />
+    <Link Source="合并1" Target="83841" Category="Contains" />
+    <Link Source="合并1" Target="88901" Category="Contains" />
+  </Links>
+  <Categories>
+    <Category Id="Category1" Label="类别 1" Background="#FFE51400" IsTag="True" />
+    <Category Id="Category2" Label="类别 2" Background="#FF339933" IsTag="True" />
+    <Category Id="Contains" Label="包含" Description="链接的源是否包含目标对象" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="包含者" IsContainment="True" OutgoingActionLabel="包含" />
+  </Categories>
+  <Properties>
+    <Property Id="Background" Label="背景" Description="背景色" DataType="System.Windows.Media.Brush" />
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="Group" Label="组" Description="将节点显示为组" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsTag" DataType="System.Boolean" />
+    <Property Id="Label" Label="标签" Description="可批注对象的可显示标签" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="UseManualLocation" DataType="System.Boolean" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+  </Properties>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="类别 2" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('Category2')" />
+      <Setter Property="Background" Value="#FF339933" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="类别 1" ValueLabel="具有类别">
+      <Condition Expression="HasCategory('Category1')" />
+      <Setter Property="Background" Value="#FFE51400" />
+    </Style>
+  </Styles>
+</DirectedGraph>
