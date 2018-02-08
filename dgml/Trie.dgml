@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph GraphDirection="TopToBottom" Layout="Sugiyama" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="-----" Bounds="810,0,50,25.24" />
+    <Node Id="A" Bounds="81,110.48,50,25.24" />
+    <Node Id="A1" Bounds="486,110.48,50.0000000000001,25.24" Label="A" />
+    <Node Id="A2" Bounds="243,165.72,50,25.24" Label="A" />
+    <Node Id="A3" Bounds="1053,110.48,50,25.24" Label="A" />
+    <Node Id="A4" Bounds="810,110.48,50,25.24" Label="A" />
+    <Node Id="A5" Bounds="1134,165.72,50,25.24" Label="A" />
+    <Node Id="C" Bounds="324,55.2400000000001,50,25.24" Label="C" />
+    <Node Id="CAI" Bounds="0,220.96,50,25.24" />
+    <Node Id="CAO" Bounds="81,220.96,50,25.24" />
+    <Node Id="CHANG" Bounds="152.785,331.44,64.43,25.24" />
+    <Node Id="CHAO" Bounds="240.235,276.2,55.53,25.24" />
+    <Node Id="CHEN" Bounds="326.17,276.2,53.66,25.24" />
+    <Node Id="E" Bounds="729,110.48,50,25.24" />
+    <Node Id="E1" Bounds="324,165.72,50,25.24" Label="E" />
+    <Node Id="G" Bounds="160,276.2,50,25.24" />
+    <Node Id="G1" Bounds="648,220.96,50,25.24" Label="G" />
+    <Node Id="G2" Bounds="810,220.96,50,25.24" Label="G" />
+    <Node Id="H" Bounds="324,110.48,50,25.24" />
+    <Node Id="H1" Bounds="1134,110.48,50,25.24" Label="H" />
+    <Node Id="I" Bounds="567,110.48,50,25.24" />
+    <Node Id="L" Bounds="567,55.2400000000001,50,25.24" />
+    <Node Id="LAN" Bounds="405,220.96,50.0000000000001,25.24" />
+    <Node Id="LI" Bounds="486,165.72,50,25.24" />
+    <Node Id="LIU" Bounds="567,220.96,50,25.24" />
+    <Node Id="M" Bounds="810,165.72,50,25.24" Label="N" />
+    <Node Id="N" Bounds="405,165.72,50,25.24" Label="N" />
+    <Node Id="N1" Bounds="162,220.96,50,25.24" Label="N" />
+    <Node Id="N2" Bounds="729,165.72,50,25.24" Label="N" />
+    <Node Id="N3" Bounds="972,165.72,50.0000000000001,25.24" Label="N" />
+    <Node Id="N4" Bounds="1053,165.72,50,25.24" Label="N" />
+    <Node Id="N5" Bounds="648,165.72,50,25.24" Label="N" />
+    <Node Id="N6" Bounds="324,220.96,50,25.24" Label="N" />
+    <Node Id="O" Bounds="0,165.72,50,25.24" Label="I " />
+    <Node Id="O1" Bounds="81,165.72,50,25.24" Label="O" />
+    <Node Id="O2" Bounds="243,220.96,50,25.24" Label="O" />
+    <Node Id="O3" Bounds="648,110.48,50,25.24" Label="O" />
+    <Node Id="O4" Bounds="1134,220.96,50,25.24" Label="O" />
+    <Node Id="U" Bounds="972,110.48,50.0000000000001,25.24" />
+    <Node Id="U1" Bounds="567,165.72,50,25.24" Label="U" />
+    <Node Id="U2" Bounds="891,110.48,50,25.24" Label="U" />
+    <Node Id="W" Bounds="810,55.24,50,25.24" />
+    <Node Id="WANG" Bounds="805.333333333333,276.2,59.3333333333334,25.24" />
+    <Node Id="WEN" Bounds="729,220.96,50,25.24" />
+    <Node Id="WU" Bounds="891,165.72,50,25.24" />
+    <Node Id="Y" Bounds="972,55.24,50.0000000000001,25.24" />
+    <Node Id="YAN" Bounds="1053,220.96,50,25.24" Label="G" />
+    <Node Id="YANG" Bounds="1050.81666666667,276.2,54.3666666666668,25.24" />
+    <Node Id="Z" Bounds="1053,55.24,50,25.24" />
+  </Nodes>
+  <Links>
+    <Link Source="-----" Target="C" Bounds="382.942413330078,15.4615640640259,427.057586669922,48.5404500961304" />
+    <Link Source="-----" Target="L" Bounds="625.776123046875,18.3031272888184,184.223876953125,41.878719329834" />
+    <Link Source="-----" Target="W" Bounds="835,25.2399997711182,0,21.0000019073486" />
+    <Link Source="-----" Target="Y" Bounds="860,21.1446914672852,103.481628417969,35.2859535217285" />
+    <Link Source="-----" Target="Z" Bounds="860,18.0409164428711,184.28564453125,40.9978485107422" />
+    <Link Source="A" Target="O" Bounds="50.9405708312988,135.720001220703,36.5543632507324,24.9291687011719" />
+    <Link Source="A" Target="O1" Bounds="106,135.720001220703,0,21" />
+    <Link Source="A1" Target="N" Bounds="455.940582275391,135.720001220703,36.5543518066406,24.9291687011719" />
+    <Link Source="A2" Target="N1" Bounds="212.940567016602,190.960006713867,36.5543670654297,24.9291687011719" />
+    <Link Source="A2" Target="O2" Bounds="268,190.960006713867,0,21" />
+    <Link Source="A3" Target="N4" Bounds="1078,135.720001220703,0,21" />
+    <Link Source="A4" Target="M" Bounds="835,135.720001220703,0,21" />
+    <Link Source="A5" Target="O4" Bounds="1159,190.960006713867,0,21" />
+    <Link Source="C" Target="A" Bounds="139.776092529297,73.5431289672852,184.223907470703,41.8787155151367" />
+    <Link Source="C" Target="H" Bounds="349,80.4800033569336,0,21" />
+    <Link Source="E" Target="N2" Bounds="754,135.720001220703,0,21" />
+    <Link Source="E1" Target="N6" Bounds="349,190.960006713867,0,21" />
+    <Link Source="G" Target="CHANG" Bounds="185,301.440002441406,0,21" />
+    <Link Source="G2" Target="WANG" Bounds="835,246.199996948242,0,21.0000152587891" />
+    <Link Source="H" Target="A2" Bounds="293.940582275391,135.720001220703,36.5543518066406,24.9291687011719" />
+    <Link Source="H" Target="E1" Bounds="349,135.720001220703,0,21" />
+    <Link Source="H1" Target="A5" Bounds="1159,135.720001220703,0,21" />
+    <Link Source="I" Target="LI" Bounds="536.940551757813,135.720001220703,36.5543823242188,24.9291687011719" />
+    <Link Source="I" Target="U1" Bounds="592,135.720001220703,0,21" />
+    <Link Source="L" Target="A1" Bounds="536.940551757813,80.4800033569336,36.5543823242188,24.9291687011719" />
+    <Link Source="L" Target="I" Bounds="592,80.4800033569336,0,21" />
+    <Link Source="L" Target="O3" Bounds="610.505065917969,80.4800033569336,36.5543823242188,24.9291687011719" />
+    <Link Source="M" Target="G2" Bounds="835,190.960006713867,0,21" />
+    <Link Source="N" Target="LAN" Bounds="430,190.960006713867,0,21" />
+    <Link Source="N1" Target="G" Bounds="185.78254699707,246.199996948242,0.760543823242188,21.0059051513672" />
+    <Link Source="N2" Target="WEN" Bounds="754,190.960006713867,0,21" />
+    <Link Source="N4" Target="YAN" Bounds="1078,190.960006713867,0,21" />
+    <Link Source="N5" Target="G1" Bounds="673,190.960006713867,0,21" />
+    <Link Source="N6" Target="CHEN" Bounds="349.913818359375,246.199996948242,1.5223388671875,21.0235137939453" />
+    <Link Source="O" Target="CAI" Bounds="25,190.960006713867,0,21" />
+    <Link Source="O1" Target="CAO" Bounds="106,190.960006713867,0,21" />
+    <Link Source="O2" Target="CHAO" Bounds="268,246.199996948242,0,21.0000152587891" />
+    <Link Source="O3" Target="N5" Bounds="673,135.720001220703,0,21" />
+    <Link Source="U" Target="N3" Bounds="997,135.720001220703,0,21" />
+    <Link Source="U1" Target="LIU" Bounds="592,190.960006713867,0,21" />
+    <Link Source="U2" Target="WU" Bounds="916,135.720001220703,0,21" />
+    <Link Source="W" Target="A4" Bounds="835,80.4800033569336,0,21" />
+    <Link Source="W" Target="E" Bounds="779.940551757813,80.4800033569336,36.5543823242188,24.9291687011719" />
+    <Link Source="W" Target="U2" Bounds="853.505065917969,80.4800033569336,36.5543823242188,24.9291687011719" />
+    <Link Source="Y" Target="A3" Bounds="1015.50506591797,80.4800033569336,36.5543823242188,24.9291687011719" />
+    <Link Source="Y" Target="U" Bounds="997,80.4800033569336,0,21" />
+    <Link Source="YAN" Target="YANG" Bounds="1078,246.199996948242,0,21.0000152587891" />
+    <Link Source="Z" Target="H1" Bounds="1096.50512695313,80.4800033569336,36.5543212890625,24.9291687011719" />
+  </Links>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="GraphDirection" DataType="Microsoft.VisualStudio.Diagrams.Layout.LayoutOrientation" />
+    <Property Id="Label" Label="标签" Description="可批注对象的可显示标签" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="ZoomLevel" DataType="System.String" />
+  </Properties>
+</DirectedGraph>
