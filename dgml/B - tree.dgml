@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph Layout="Sugiyama" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="1315" Bounds="272.074522258668,380.959793726892,62.3466666666666,25.24" Label="13    15" />
+    <Node Id="1715" Bounds="419.681716883087,40.0001397415787,58.7966666666666,25.24" Label="17   35" />
+    <Node Id="2630" Bounds="418.013471357995,210.480092308162,62.3466666666667,25.24" Label="26    30" />
+    <Node Id="2829" Bounds="418.826666666667,380.96,62.3466666666667,25.24" Label="28    29" />
+    <Node Id="35" Bounds="26.7643077073594,380.959980304041,50,25.24" Label="3    5" />
+    <Node Id="3668" Bounds="564.566878023504,380.959502633859,62.3466666666668,25.24" Label="36    60" />
+    <Node Id="6587" Bounds="699.96614053037,210.480291165918,62.3466666666667,25.24" Label="65    87" />
+    <Node Id="7579" Bounds="696.913741426137,380.959708498473,62.3466666666668,25.24" Label="75    79" />
+    <Node Id="812" Bounds="140.574683376696,210.480190456063,55.31,25.24" Label="8    12" />
+    <Node Id="9099" Bounds="829.260616110021,380.95968362152,62.3466666666666,25.24" Label="90    99" />
+    <Node Id="910" Bounds="146.764417201659,380.959980304041,55.31,25.24" Label="9    10" />
+    <Node Id="A65" Bounds="252.303401947021,580.551447753906,50,25.24" Label="A 65" UseManualLocation="True" />
+    <Node Id="B" Bounds="0,456.2,50,25.24" />
+    <Node Id="C67" Bounds="-3.25455932617188,578.071131640625,50,25.24" Label="C 67" UseManualLocation="True" />
+    <Node Id="D" Bounds="340.903641388344,660.58155404041,50,25.24" Label="D 44" UseManualLocation="True" />
+    <Node Id="E" Bounds="436.103651748859,589.351473193203,50,25.24" Label="E 69" UseManualLocation="True" />
+    <Node Id="F" Bounds="776.903641388343,590.151473193203,50,25.24" Label="F 70" UseManualLocation="True" />
+    <Node Id="G71" Bounds="172.303401947021,578.911463623047,50,25.24" Label="G 71" UseManualLocation="True" />
+    <Node Id="H" Bounds="344.103641388344,582.151473193203,50,25.24" Label="H 72" UseManualLocation="True" />
+    <Node Id="K" Bounds="516.103651748859,591.741450195313,50,25.24" Label="K 75" UseManualLocation="True" />
+    <Node Id="L" Bounds="84.9036413911285,662.951472167969,50,25.24" Label="L 76" UseManualLocation="True" />
+    <Node Id="M" Bounds="685.551820694172,590.151473193203,50,25.24" Label="M 77" UseManualLocation="True" />
+    <Node Id="N78" Bounds="87.9414889524228,577.311237792969,50,25.24" Label="N 78" UseManualLocation="True" />
+    <Node Id="P" Bounds="62.2296833766958,265.720219635664,50,25.24" Label="P1" />
+    <Node Id="P1" Bounds="343.08006547521,95.240173689617,50,25.24" Label="P1" />
+    <Node Id="P11" Bounds="625.139473863703,265.720281400293,50,25.24" Label="P1" />
+    <Node Id="P2" Bounds="424.080050216421,95.2401622455252,50,25.24" Label="P2" />
+    <Node Id="P21" Bounds="143.229683376696,265.720204376875,50,25.24" Label="P2" />
+    <Node Id="P22" Bounds="424.186804691328,265.720095800863,50,25.24" Label="P2" />
+    <Node Id="P23" Bounds="706.139473863703,265.720281400293,50,25.24" Label="P2" />
+    <Node Id="P3" Bounds="505.08006547521,95.2401927631033,50,25.24" Label="P3" />
+    <Node Id="P31" Bounds="223.229683376696,265.720204376875,50,25.24" Label="P3" />
+    <Node Id="P32" Bounds="505.186804691328,265.720095800863,50,25.24" Label="P3" />
+    <Node Id="P33" Bounds="787.139473863703,265.720296659082,50,25.24" Label="P3" />
+    <Node Id="P4" Bounds="343.186804691328,265.720105806934,50,25.24" Label="P1" />
+    <Node Id="P5" Bounds="439.703645645344,659.78155404041,50,25.24" Label="P 80" UseManualLocation="True" />
+    <Node Id="Q" Bounds="604.903643798828,592.551435546875,50,25.24" Label="Q 81" UseManualLocation="True" />
+    <Node Id="R" Bounds="519.703645645344,660.551508789063,50,25.24" Label="R 82" UseManualLocation="True" />
+    <Node Id="S" Bounds="773.951820694172,657.351473193203,50,25.24" Label="S 83" UseManualLocation="True" />
+    <Node Id="T" Bounds="164.903641388344,663.751473193203,50,25.24" Label="T 84" UseManualLocation="True" />
+    <Node Id="W" Bounds="4.90364139112847,654.951472167969,50,25.24" Label="W 87" UseManualLocation="True" />
+    <Node Id="X" Bounds="606.50366395589,661.351473193203,50,25.24" Label="X 88" UseManualLocation="True" />
+    <Node Id="Y" Bounds="686.50366395589,662.951472167969,50,25.24" Label="Y 89" UseManualLocation="True" />
+    <Node Id="Z" Bounds="247.303641388344,660.551473193203,50,25.24" Label="Z 90" UseManualLocation="True" />
+    <Node Id="磁盘1" Bounds="323.08006547521,-0.000501248773984861,252,140.480319073486" Group="Expanded" />
+    <Node Id="磁盘10" Bounds="676.913741426137,340.960151431071,102.346666666667,85.2402" Group="Expanded" />
+    <Node Id="磁盘11" Bounds="809.260616110021,340.960151431071,102.346666666667,85.2402" Group="Expanded" />
+    <Node Id="磁盘2" Bounds="42.2296833766958,170.479909446759,251,140.4803" Group="Expanded" />
+    <Node Id="磁盘3" Bounds="323.186804691328,170.479985858031,252,140.4803" Group="Expanded" />
+    <Node Id="磁盘4" Bounds="605.139473863703,170.479991352984,252,140.480315258789" Group="Expanded" />
+    <Node Id="磁盘5" Bounds="6.7762886943363,340.960149283937,90,85.2402" Group="Expanded" />
+    <Node Id="磁盘6" Bounds="126.776393224922,340.960149283937,95.31,85.2402" Group="Expanded" />
+    <Node Id="磁盘7" Bounds="252.086495638076,340.960149283937,102.346666666667,85.2402" Group="Expanded" />
+    <Node Id="磁盘8" Bounds="398.826666666667,340.96,102.346666666667,85.24" Group="Expanded" />
+    <Node Id="磁盘9" Bounds="544.566878023504,340.960171675916,102.346666666667,85.2402" Group="Expanded" />
+  </Nodes>
+  <Links>
+    <Link Source="1715" Target="P1" Bounds="394.423492431641,65.2403106689453,36.5543823242188,24.9291687011719" />
+    <Link Source="1715" Target="P2" Bounds="449.482940673828,65.2403106689453,0,21" />
+    <Link Source="1715" Target="P3" Bounds="467.988006591797,65.2403106689453,36.5543518066406,24.9291687011719" />
+    <Link Source="2630" Target="P22" Bounds="449.480560302734,235.720062255859,0,21" />
+    <Link Source="2630" Target="P32" Bounds="467.985626220703,235.720062255859,36.5543518066406,24.9291687011719" />
+    <Link Source="2630" Target="P4" Bounds="394.421112060547,235.720062255859,36.5543823242188,24.9291687011719" />
+    <Link Source="6587" Target="P11" Bounds="676.182556152344,235.720275878906,36.5543823242188,24.9291687011719" />
+    <Link Source="6587" Target="P23" Bounds="731.242004394531,235.720275878906,0,21" />
+    <Link Source="6587" Target="P33" Bounds="749.7470703125,235.720275878906,36.5543823242188,24.9291687011719" />
+    <Link Source="812" Target="P" Bounds="113.440574645996,235.720001220703,36.5543594360352,24.9291687011719" />
+    <Link Source="812" Target="P21" Bounds="168.5,235.720001220703,0,21" />
+    <Link Source="812" Target="P31" Bounds="186.776611328125,235.720001220703,36.0407867431641,24.8861694335938" />
+    <Link Source="磁盘1" Target="1715" Category="Contains" />
+    <Link Source="磁盘1" Target="P1" Category="Contains" />
+    <Link Source="磁盘1" Target="P2" Category="Contains" />
+    <Link Source="磁盘1" Target="P3" Category="Contains" />
+    <Link Source="磁盘1" Target="磁盘2" Bounds="291.339292250261,140.479817824712,41.8152103280763,25.3361464987615" />
+    <Link Source="磁盘1" Target="磁盘3" Bounds="449.141723227405,140.479817824712,0.0184340896303183,21.0000097385751" />
+    <Link Source="磁盘1" Target="磁盘4" Bounds="565.324068019577,140.479817824712,41.9455404635863,25.3454921503819" />
+    <Link Source="磁盘10" Target="7579" Category="Contains" />
+    <Link Source="磁盘11" Target="9099" Category="Contains" />
+    <Link Source="磁盘2" Target="812" Category="Contains" />
+    <Link Source="磁盘2" Target="P" Category="Contains" />
+    <Link Source="磁盘2" Target="P21" Category="Contains" />
+    <Link Source="磁盘2" Target="P31" Category="Contains" />
+    <Link Source="磁盘2" Target="磁盘5" Bounds="92.0522337834234,310.960117413576,18.6713199033593,23.011227342579" />
+    <Link Source="磁盘2" Target="磁盘6" Bounds="171.02942463447,310.960117413576,0.990968670189318,21.010007136105" />
+    <Link Source="磁盘2" Target="磁盘7" Bounds="234.370537442833,310.960117413576,22.2732681462057,23.4715914457542" />
+    <Link Source="磁盘3" Target="2630" Category="Contains" />
+    <Link Source="磁盘3" Target="P22" Category="Contains" />
+    <Link Source="磁盘3" Target="P32" Category="Contains" />
+    <Link Source="磁盘3" Target="P4" Category="Contains" />
+    <Link Source="磁盘3" Target="磁盘8" Bounds="449.573014471702,310.960153911115,0.102637961856203,21.0000777149588" />
+    <Link Source="磁盘4" Target="6587" Category="Contains" />
+    <Link Source="磁盘4" Target="P11" Category="Contains" />
+    <Link Source="磁盘4" Target="P23" Category="Contains" />
+    <Link Source="磁盘4" Target="P33" Category="Contains" />
+    <Link Source="磁盘4" Target="磁盘10" Bounds="729.189163289333,310.960122701238,0.466670032228421,21.0022223650567" />
+    <Link Source="磁盘4" Target="磁盘11" Bounds="794.72681820232,310.960122701238,21.0895053978168,23.3242707662753" />
+    <Link Source="磁盘4" Target="磁盘9" Bounds="642.320063415855,310.960122701238,22.2647850556199,23.4705322587618" />
+    <Link Source="磁盘5" Target="35" Category="Contains" />
+    <Link Source="磁盘6" Target="910" Category="Contains" />
+    <Link Source="磁盘7" Target="1315" Category="Contains" />
+    <Link Source="磁盘8" Target="2829" Category="Contains" />
+    <Link Source="磁盘9" Target="3668" Category="Contains" />
+  </Links>
+  <Categories>
+    <Category Id="Contains" Label="包含" Description="链接的源是否包含目标对象" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="包含者" IsContainment="True" OutgoingActionLabel="包含" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="Group" Label="组" Description="将节点显示为组" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="Label" Label="标签" Description="可批注对象的可显示标签" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="UseManualLocation" DataType="System.Boolean" />
+    <Property Id="ZoomLevel" DataType="System.String" />
+  </Properties>
+</DirectedGraph>
