@@ -20,6 +20,8 @@ void to_binary(unsigned int value, char buf[], int num_of_bits)
 	buf[num_of_bits] = 0;
 }
 
+//#define DEBUG_TEST01_C
+#ifdef DEBUG_TEST01_C
 int main(void) {
 
 	char buf[33];
@@ -34,3 +36,4 @@ int main(void) {
 					//2.ctrl+f5
 	return 0;
 }
+#endif

@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph Layout="Sugiyama" ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(a,B)" Bounds="1329.19189453125,415.787811399706,50,25.24" Label="(a, b)" />
+    <Node Id="12Null" Bounds="1602.87239423949,173.849998072305,54.9533333333333,25.24" Label="12  nil" UseManualLocation="True" />
+    <Node Id="1833" Bounds="1710.07240641276,73.5964491395735,55.2466666666669,25.24" Label="18  33" UseManualLocation="True" />
+    <Node Id="2-3Tree" Bounds="1044.95854842945,9.59999988555908,65.4866666666667,25.24" Label="2-3 tree" UseManualLocation="True" />
+    <Node Id="2330" Bounds="1706.07240641276,166.476649139574,55.2466666666669,25.24" Label="23  30" UseManualLocation="True" />
+    <Node Id="3-节点" Bounds="1201.10935325893,30.9667649639435,252,140.4803" Group="Expanded" Label="3 - 节点" />
+    <Node Id="3-节点为4-节点" Bounds="50.5408435058591,264.746315687703,434.253333333333,195.7205" Group="Expanded" Label="3 - 节点 为 4 - 节点" />
+    <Node Id="4-节点" Category="Comment" Bounds="397.877510172526,359.986566564859,63.3266666666668,25.24" Label="4 - 节点" />
+    <Node Id="4-节点，分解为2-3树" Bounds="592.35857894703,380.960180197268,332.999969482422,195.7204" Group="Expanded" Label="4 - 节点，分解为 2 - 3 树" />
+    <Node Id="48Nil" Bounds="1862.07240641276,171.236549139574,54.9533333333334,25.24" Label="48  nil" UseManualLocation="True" />
+    <Node Id="&lt;A" Bounds="1221.10935325893,126.206932969315,50,25.24" Label="&lt; a" />
+    <Node Id="&lt;A1" Bounds="1248.1904296875,413.387817503222,50,25.24" Label="&lt; a" />
+    <Node Id="&gt;=B" Bounds="1302.10935325893,126.206964963943,50,25.24" Label="&gt; b" />
+    <Node Id="&gt;B" Bounds="1371.89050292969,359.647714069402,50,25.24" Label="&gt; b" UseManualLocation="True" />
+    <Node Id="A" Bounds="733.858548429452,79.9994440055061,50,25.24" Label="A    E" />
+    <Node Id="A1" Bounds="693.358609464609,476.200264757459,50,25.24" Label="A" />
+    <Node Id="A2" Bounds="1279.09045410156,357.347747923144,50,25.24" Label="a" UseManualLocation="True" />
+    <Node Id="AB" Bounds="1302.10971946986,70.9669155315912,50,25.24" Label="a    b" />
+    <Node Id="AC" Bounds="80.1400366210937,189.506146630777,50.6700000000001,25.24" Label="A    C" />
+    <Node Id="AC1" Bounds="232.205843505859,415.226599898215,50.6700000000001,25.24" Label="A    C" />
+    <Node Id="AC2" Bounds="46.2668853623515,641.384550891665,50.6700000000001,25.24" Label="A    C" />
+    <Node Id="AES" Bounds="764.175245613697,250.479844005506,70.3666666666667,25.24" Label="A    E    S" />
+    <Node Id="B" Bounds="1325.15778808594,302.107647923144,50,25.24" Label="b" UseManualLocation="True" />
+    <Node Id="E" Bounds="774.358609464609,420.960280197268,50,25.24" Label="E" />
+    <Node Id="EJ" Bounds="242.474975585938,134.26603432609,50,25.24" Label="E    J" />
+    <Node Id="EJ1" Bounds="232.540843505859,359.986499898215,50,25.24" Label="E    J" />
+    <Node Id="EJ2" Bounds="129.358629747117,589.705168566813,50,25.24" Label="E    J" UseManualLocation="True" />
+    <Node Id="H" Bounds="161.474975585938,189.506146630777,50,25.24" />
+    <Node Id="H1" Bounds="151.540843505859,415.226566564859,50,25.24" Label="H" />
+    <Node Id="H2" Bounds="128.340615650284,644.9452808715,50,25.24" Label="H" />
+    <Node Id="Il" Bounds="612.358563688241,531.440146401731,50,25.24" Label="nil" />
+    <Node Id="J" Bounds="209.358629747117,641.384550891031,50.0000000000001,25.24" />
+    <Node Id="L" Bounds="242.475006103516,189.506154260172,50,25.24" />
+    <Node Id="L1" Bounds="70.5408435058592,415.226566564859,50,25.24" Label="L" />
+    <Node Id="M" Bounds="323.474975585938,79.0259076232089,50,25.24" />
+    <Node Id="M1" Bounds="313.540843505859,304.746482354347,50,25.24" Label="M" />
+    <Node Id="M2" Bounds="290.340615650284,530.466978869547,50,25.24" Label="M" />
+    <Node Id="Nil" Bounds="652.858548429452,135.239489717911,50,25.24" Label="nil" />
+    <Node Id="Nil1" Bounds="733.858548429452,135.239544005506,50,25.24" Label="nil" />
+    <Node Id="Nil2" Bounds="814.858548429452,135.239528746717,50,25.24" Label="nil" />
+    <Node Id="Nil3" Bounds="612.358609464609,305.719944005506,50,25.24" Label="nil" />
+    <Node Id="Nil4" Bounds="693.35857894703,305.72001159668,50,25.24" Label="nil" />
+    <Node Id="Nil5" Bounds="774.358609464609,305.72001159668,50,25.24" Label="nil" />
+    <Node Id="Nil6" Bounds="855.358548429452,305.719912606094,50,25.24" Label="nil" />
+    <Node Id="Nil7" Bounds="693.358563688241,531.440246401731,50,25.24" Label="nil" />
+    <Node Id="Nil8" Bounds="774.358609464609,531.440480197268,50,25.24" Label="nil" />
+    <Node Id="Nil9" Bounds="855.358548429452,531.440254991834,50,25.24" Label="nil" />
+    <Node Id="P" Bounds="323.474975585938,189.506131371988,50,25.24" />
+    <Node Id="P1" Bounds="313.540843505859,415.226682354347,50,25.24" Label="P" />
+    <Node Id="P2" Bounds="290.358629747117,645.765898547281,50,25.24" Label="P" />
+    <Node Id="R" Bounds="323.475006103516,134.266031371988,50,25.24" />
+    <Node Id="R1" Bounds="313.540843505859,359.986582354347,50,25.24" Label="R" />
+    <Node Id="RX" Bounds="365.318316026414,590.525786242594,50,25.24" Label="R    X" UseManualLocation="True" />
+    <Node Id="S" Bounds="774.358609464609,476.200380197268,50,25.24" Label="S" />
+    <Node Id="S1" Bounds="371.358538194383,645.765959582438,50,25.24" Label="S" />
+    <Node Id="SX" Bounds="404.474975585938,189.506139001383,50,25.24" Label="S    X" />
+    <Node Id="SXZ" Bounds="394.287510172526,415.226566564859,70.5066666666667,25.24" Label="S    X    Z" />
+    <Node Id="Z" Bounds="452.358538194383,641.384611926188,50,25.24" />
+    <Node Id="[a,B)" Bounds="1383.10935325893,126.206914963943,50,25.24" Label="(a, b)" />
+    <Node Id="分解" Bounds="26.2668853623516,490.466878869547,496.091693584679,200.539180712891" Group="Expanded" Label="4 - 节点分解为 两个2 - 节点， 2 - 节点替换为 3 - 节点" UseManualLocation="True" />
+    <Node Id="创建一个4-节点" Bounds="592.358609464609,210.479712606094,332.999938964844,140.480367591173" Group="Expanded" Label="创建一个 4 - 节点" />
+    <Node Id="只有一个3-节点的树" Bounds="572.35857894703,-0.000787393905568479,372.999969482422,596.681467591173" Group="Expanded" Label="只有一个 3 - 节点的树" />
+    <Node Id="对Z的查找结束于3-节点" Category="Comment" Bounds="403.755006103516,134.266019067301,51.4400000000001,25.24" Label="插入Z" />
+    <Node Id="插入S" Bounds="632.858548429452,39.9993126060944,252,140.4803" Group="Expanded" />
+    <Node Id="插入Z" Bounds="60.1400366210937,39.0258076232089,415.054969482422,195.720446636963" Group="Expanded" />
+    <Node Id="父节点为2-节点的3-节点" Bounds="6.26688536235156,-0.974292376791141,536.091693584679,711.980451959229" Group="Expanded" Label="父节点为2 - 节点的3 - 节点" />
+    <Node Id="红连接" Bounds="1228.1904296875,262.107548990887,213.7001953125,198.920363476562" Group="Expanded" Label="红链接" UseManualLocation="True" />
+  </Nodes>
+  <Links>
+    <Link Source="1833" Target="12Null" Bounds="1650.43951262164,98.8364535522461,73.7433374461384,68.8706073034422" />
+    <Link Source="1833" Target="2330" Bounds="1734.62647273191,98.8364535522461,2.52577117332612,58.6485301468449" />
+    <Link Source="1833" Target="48Nil" Bounds="1757.32281052208,98.8364535522461,105.029041228431,67.5325684321889" />
+    <Link Source="3-节点" Target="&lt;A" Category="Contains" />
+    <Link Source="3-节点" Target="&gt;=B" Category="Contains" />
+    <Link Source="3-节点" Target="AB" Category="Contains" />
+    <Link Source="3-节点" Target="[a,B)" Category="Contains" />
+    <Link Source="3-节点" Target="红连接" Bounds="1329.2490211121,171.446914963943,2.48769308139663,81.6648068897649" />
+    <Link Source="3-节点为4-节点" Target="4-节点" Category="Contains" />
+    <Link Source="3-节点为4-节点" Target="AC1" Category="Contains" />
+    <Link Source="3-节点为4-节点" Target="EJ1" Category="Contains" />
+    <Link Source="3-节点为4-节点" Target="H1" Category="Contains" />
+    <Link Source="3-节点为4-节点" Target="L1" Category="Contains" />
+    <Link Source="3-节点为4-节点" Target="M1" Category="Contains" />
+    <Link Source="3-节点为4-节点" Target="P1" Category="Contains" />
+    <Link Source="3-节点为4-节点" Target="R1" Category="Contains" />
+    <Link Source="3-节点为4-节点" Target="SXZ" Category="Contains" />
+    <Link Source="3-节点为4-节点" Target="分解" Bounds="270.518085286042,460.466566564859,0.611831647113263,21.0041281503528" />
+    <Link Source="4-节点" Target="SXZ" Bounds="429.416076660156,385.2265625,0,21.0000305175781" />
+    <Link Source="4-节点，分解为2-3树" Target="A1" Category="Contains" />
+    <Link Source="4-节点，分解为2-3树" Target="E" Category="Contains" />
+    <Link Source="4-节点，分解为2-3树" Target="Il" Category="Contains" />
+    <Link Source="4-节点，分解为2-3树" Target="Nil7" Category="Contains" />
+    <Link Source="4-节点，分解为2-3树" Target="Nil8" Category="Contains" />
+    <Link Source="4-节点，分解为2-3树" Target="Nil9" Category="Contains" />
+    <Link Source="4-节点，分解为2-3树" Target="S" Category="Contains" />
+    <Link Source="A" Target="Nil" Bounds="703.799133300781,105.239944458008,36.5543823242188,24.9291687011719" />
+    <Link Source="A" Target="Nil1" Bounds="758.858581542969,105.239944458008,0,21" />
+    <Link Source="A" Target="Nil2" Bounds="777.363647460938,105.239944458008,36.5543212890625,24.9291687011719" />
+    <Link Source="A1" Target="Il" Bounds="663.299133300781,501.43994140625,36.5543823242188,24.92919921875" />
+    <Link Source="A1" Target="Nil7" Bounds="718.358581542969,501.43994140625,0,21" />
+    <Link Source="A2" Target="(a,B)" Bounds="1314.90974724754,382.587747923144,22.6050606710564,26.367329345789" />
+    <Link Source="A2" Target="&lt;A1" Bounds="1284.49467865937,382.587747923144,12.6372132735921,22.918762188037" />
+    <Link Source="AB" Target="&lt;A" Bounds="1272.04992675781,96.206916809082,36.5543212890625,24.9291687011719" />
+    <Link Source="AB" Target="&gt;=B" Bounds="1327.109375,96.206916809082,0,21" />
+    <Link Source="AB" Target="[a,B)" Bounds="1345.61437988281,96.206916809082,36.554443359375,24.9291687011719" />
+    <Link Source="AES" Target="Nil3" Bounds="670.876953125,274.808441162109,94.1446533203125,32.1021423339844" />
+    <Link Source="AES" Target="Nil4" Bounds="744.299133300781,275.719940185547,36.5543823242188,24.9291687011719" />
+    <Link Source="AES" Target="Nil5" Bounds="799.358581542969,275.719940185547,0,21" />
+    <Link Source="AES" Target="Nil6" Bounds="817.863647460938,275.719940185547,36.5543212890625,24.9291687011719" />
+    <Link Source="B" Target="&gt;B" Bounds="1360.40746106735,327.347647923144,20.5593948370476,25.3139357044857" />
+    <Link Source="B" Target="A2" Bounds="1320.37903323785,327.347647923144,19.2543395251066,23.0881960992463" />
+    <Link Source="E" Target="A1" Bounds="744.299133300781,446.199951171875,36.5543823242188,24.9291687011719" />
+    <Link Source="E" Target="S" Bounds="799.358581542969,446.199951171875,0,21" />
+    <Link Source="EJ" Target="AC" Bounds="139.328414916992,155.410720825195,103.146606445313,35.1717224121094" />
+    <Link Source="EJ" Target="H" Bounds="212.415588378906,159.50602722168,36.5543670654297,24.9291687011719" />
+    <Link Source="EJ" Target="L" Bounds="267.475036621094,159.50602722168,0,21" />
+    <Link Source="EJ1" Target="AC1" Bounds="257.548645019531,385.2265625,0,21.0000305175781" />
+    <Link Source="EJ1" Target="H1" Bounds="202.531661987305,385.2265625,36.5261840820313,24.92919921875" />
+    <Link Source="EJ1" Target="L1" Bounds="129.166076660156,381.131256103516,103.401840209961,35.2859802246094" />
+    <Link Source="EJ2" Target="AC2" Bounds="99.4447049800555,614.945284356301,34.7048961921688,21.6722831739324" />
+    <Link Source="EJ2" Target="H2" Bounds="153.739020150421,614.945284356301,0.387036972093767,21.0016402238804" />
+    <Link Source="EJ2" Target="J" Bounds="173.894466953261,614.945284356301,33.3685188553095,21.5558055439552" />
+    <Link Source="M" Target="EJ" Bounds="293.415588378906,104.26602935791,36.5543518066406,24.9291763305664" />
+    <Link Source="M" Target="R" Bounds="348.475036621094,104.26602935791,0,21" />
+    <Link Source="M1" Target="EJ1" Bounds="283.46923828125,329.986541748047,36.5261535644531,24.92919921875" />
+    <Link Source="M1" Target="R1" Bounds="338.486206054688,329.986541748047,0,21.0000305175781" />
+    <Link Source="M2" Target="EJ2" Bounds="187.804925511545,552.286628798577,102.535690138739,37.7310865637705" />
+    <Link Source="M2" Target="RX" Bounds="331.09548358946,555.70712799239,36.4436493625307,29.192174553968" />
+    <Link Source="R" Target="P" Bounds="348.475036621094,159.50602722168,0,21" />
+    <Link Source="R" Target="SX" Bounds="366.980102539063,159.50602722168,36.5543518066406,24.9291687011719" />
+    <Link Source="R1" Target="P1" Bounds="338.486206054688,385.2265625,0,21.0000305175781" />
+    <Link Source="R1" Target="SXZ" Bounds="359.259826660156,385.2265625,41.6950988769531,25.329833984375" />
+    <Link Source="RX" Target="P2" Bounds="339.728903053132,615.765935365437,33.4643348121994,24.660903813549" />
+    <Link Source="RX" Target="S1" Bounds="391.698247426856,615.765935365437,2.30208702435635,21.0534655839193" />
+    <Link Source="RX" Target="Z" Bounds="411.916304358408,615.765935365437,36.0735530612435,21.0782704682968" />
+    <Link Source="S" Target="Nil8" Bounds="799.358581542969,501.43994140625,0,21" />
+    <Link Source="S" Target="Nil9" Bounds="817.863647460938,501.43994140625,36.5543212890625,24.92919921875" />
+    <Link Source="分解" Target="AC2" Category="Contains" />
+    <Link Source="分解" Target="EJ2" Category="Contains" />
+    <Link Source="分解" Target="H2" Category="Contains" />
+    <Link Source="分解" Target="J" Category="Contains" />
+    <Link Source="分解" Target="M2" Category="Contains" />
+    <Link Source="分解" Target="P2" Category="Contains" />
+    <Link Source="分解" Target="RX" Category="Contains" />
+    <Link Source="分解" Target="S1" Category="Contains" />
+    <Link Source="分解" Target="Z" Category="Contains" />
+    <Link Source="创建一个4-节点" Target="4-节点，分解为2-3树" Bounds="758.858581542969,350.9599609375,0,21" />
+    <Link Source="创建一个4-节点" Target="AES" Category="Contains" />
+    <Link Source="创建一个4-节点" Target="Nil3" Category="Contains" />
+    <Link Source="创建一个4-节点" Target="Nil4" Category="Contains" />
+    <Link Source="创建一个4-节点" Target="Nil5" Category="Contains" />
+    <Link Source="创建一个4-节点" Target="Nil6" Category="Contains" />
+    <Link Source="只有一个3-节点的树" Target="4-节点，分解为2-3树" Category="Contains" />
+    <Link Source="只有一个3-节点的树" Target="创建一个4-节点" Category="Contains" />
+    <Link Source="只有一个3-节点的树" Target="插入S" Category="Contains" />
+    <Link Source="对Z的查找结束于3-节点" Target="SX" Bounds="429.475036621094,159.50602722168,0,21" />
+    <Link Source="插入S" Target="A" Category="Contains" />
+    <Link Source="插入S" Target="Nil" Category="Contains" />
+    <Link Source="插入S" Target="Nil1" Category="Contains" />
+    <Link Source="插入S" Target="Nil2" Category="Contains" />
+    <Link Source="插入S" Target="创建一个4-节点" Bounds="758.858581542969,180.479949951172,0,21" />
+    <Link Source="插入Z" Target="3-节点为4-节点" Bounds="267.66751546996,234.74603094169,1.04107209608628E-06,21.000535623169" />
+    <Link Source="插入Z" Target="AC" Category="Contains" />
+    <Link Source="插入Z" Target="EJ" Category="Contains" />
+    <Link Source="插入Z" Target="H" Category="Contains" />
+    <Link Source="插入Z" Target="L" Category="Contains" />
+    <Link Source="插入Z" Target="M" Category="Contains" />
+    <Link Source="插入Z" Target="P" Category="Contains" />
+    <Link Source="插入Z" Target="R" Category="Contains" />
+    <Link Source="插入Z" Target="SX" Category="Contains" />
+    <Link Source="插入Z" Target="对Z的查找结束于3-节点" Category="Contains" />
+    <Link Source="父节点为2-节点的3-节点" Target="3-节点为4-节点" Category="Contains" />
+    <Link Source="父节点为2-节点的3-节点" Target="分解" Category="Contains" />
+    <Link Source="父节点为2-节点的3-节点" Target="插入Z" Category="Contains" />
+    <Link Source="红连接" Target="(a,B)" Category="Contains" />
+    <Link Source="红连接" Target="&lt;A1" Category="Contains" />
+    <Link Source="红连接" Target="&gt;B" Category="Contains" />
+    <Link Source="红连接" Target="A2" Category="Contains" />
+    <Link Source="红连接" Target="B" Category="Contains" />
+  </Links>
+  <Categories>
+    <Category Id="Comment" Label="注释" Description="表示在图表中用户定义的注释" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="注释" />
+    <Category Id="Contains" Label="包含" Description="链接的源是否包含目标对象" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="包含者" IsContainment="True" OutgoingActionLabel="包含" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="Group" Label="组" Description="将节点显示为组" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="标签" Description="可批注对象的可显示标签" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="UseManualLocation" DataType="System.Boolean" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="ZoomLevel" DataType="System.String" />
+  </Properties>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="注释" ValueLabel="包含注释">
+      <Condition Expression="HasCategory('Comment')" />
+      <Setter Property="Background" Value="#FFFFFACD" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+      <Setter Property="StrokeThickness" Value="1" />
+      <Setter Property="NodeRadius" Value="2" />
+      <Setter Property="MaxWidth" Value="250" />
+    </Style>
+  </Styles>
+</DirectedGraph>
