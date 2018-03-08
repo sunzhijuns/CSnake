@@ -139,12 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Graph.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="test01.c" />
     <ClCompile Include="TTTree.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Graph.h" />
+    <ClInclude Include="List.h" />
+    <ClInclude Include="List_impl.h" />
     <ClInclude Include="TTTree.h" />
+    <ClInclude Include="utility_macros.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
