@@ -2,6 +2,7 @@
 #define CSNAKE_INPUTHANDLER_H
 
 #include"GameActor.h"
+#include "Unit.h"
 #include<iostream>
 
 class Command {

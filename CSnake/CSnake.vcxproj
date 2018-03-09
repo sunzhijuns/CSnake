@@ -145,6 +145,7 @@
     <ClCompile Include="test.cpp" />
     <ClCompile Include="test01.c" />
     <ClCompile Include="TTTree.cpp" />
+    <ClCompile Include="Unit.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FileSystem.h" />
@@ -155,6 +156,7 @@
     <ClInclude Include="List.h" />
     <ClInclude Include="List_impl.h" />
     <ClInclude Include="TTTree.h" />
+    <ClInclude Include="Unit.h" />
     <ClInclude Include="utility_macros.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
