@@ -141,14 +141,17 @@
   <ItemGroup>
     <ClCompile Include="FileSystem.cpp" />
     <ClCompile Include="Graph.cpp" />
+    <ClCompile Include="InputHandler.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="test01.c" />
     <ClCompile Include="TTTree.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FileSystem.h" />
+    <ClInclude Include="GameActor.h" />
     <ClInclude Include="Graph.h" />
     <ClInclude Include="Heroine.h" />
+    <ClInclude Include="InputHandler.h" />
     <ClInclude Include="List.h" />
     <ClInclude Include="List_impl.h" />
     <ClInclude Include="TTTree.h" />
