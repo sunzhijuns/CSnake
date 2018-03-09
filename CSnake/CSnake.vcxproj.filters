@@ -27,6 +27,9 @@
     <ClCompile Include="Graph.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="FileSystem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TTTree.h">
@@ -42,6 +45,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="List_impl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Heroine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FileSystem.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
