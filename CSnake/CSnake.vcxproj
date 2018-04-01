@@ -146,8 +146,10 @@
     <ClCompile Include="test01.c" />
     <ClCompile Include="TTTree.cpp" />
     <ClCompile Include="Unit.cpp" />
+    <ClCompile Include="vm.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Expression.h" />
     <ClInclude Include="FileSystem.h" />
     <ClInclude Include="GameActor.h" />
     <ClInclude Include="Graph.h" />
@@ -158,6 +160,7 @@
     <ClInclude Include="TTTree.h" />
     <ClInclude Include="Unit.h" />
     <ClInclude Include="utility_macros.h" />
+    <ClInclude Include="vm.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
